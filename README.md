@@ -19,4 +19,4 @@ Analyze perfect competition among producers with no congestion and determine mar
 Formulate a strategic offering problem where the strategic producer offers its generation units strategically and solve it using mixed-integer linear programming.
 Investigate the impact of network effects on congestion and strategic offer prices.
 Introduce uncertainties in demand and supply parameters, generate scenarios, and analyze the impact on strategic offer prices, profit, and social welfare over in-sample and out-of-sample scenarios.
-(Optional) Extend the analysis to a 24-hour horizon with ramping constraints for generation units and explore the hourly strategic offer prices.
+Extend the analysis to a 24-hour horizon with ramping constraints for generation units and explore the hourly strategic offer prices.
